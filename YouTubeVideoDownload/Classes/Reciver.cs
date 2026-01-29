@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Google.Apis.YouTube.v3;
 
 namespace YouTubeVideoDownload.Classes
 {

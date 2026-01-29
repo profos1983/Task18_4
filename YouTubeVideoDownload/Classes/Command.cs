@@ -6,7 +6,7 @@ namespace YouTubeVideoDownload.Classes
 {
     abstract class Command
     {
-        public abstract void Run(string url);
+        public abstract void Run();
         public abstract void Cancel();
 
     }

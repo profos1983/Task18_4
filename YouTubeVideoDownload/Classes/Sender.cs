@@ -16,7 +16,7 @@ namespace YouTubeVideoDownload.Classes
         // Получить данные о видео
         public void Run()
         {
-            _command.Run(Url);
+            _command.Run();
         }
 
         // Скачать видео
